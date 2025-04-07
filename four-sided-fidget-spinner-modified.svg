@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <!-- Dark background -->
+  <rect width="240" height="240" fill="rgb(36,36,36)" />
+  
+  <!-- Center circle of spinner -->
+  <circle cx="120" cy="120" r="20" fill="white" stroke="#DDDDDD" stroke-width="2" />
+  
+  <!-- Four outer circles (lobes) with holes -->
+  <circle cx="120" cy="70" r="15" fill="white" stroke="#DDDDDD" stroke-width="2" />
+  <circle cx="120" cy="70" r="7" fill="rgb(36,36,36)" />
+  
+  <circle cx="170" cy="120" r="15" fill="white" stroke="#DDDDDD" stroke-width="2" />
+  <circle cx="170" cy="120" r="7" fill="rgb(36,36,36)" />
+  
+  <circle cx="120" cy="170" r="15" fill="white" stroke="#DDDDDD" stroke-width="2" />
+  <circle cx="120" cy="170" r="7" fill="rgb(36,36,36)" />
+  
+  <circle cx="70" cy="120" r="15" fill="white" stroke="#DDDDDD" stroke-width="2" />
+  <circle cx="70" cy="120" r="7" fill="rgb(36,36,36)" />
+  
+  <!-- Connecting arms - shorter now -->
+  <line x1="120" y1="100" x2="120" y2="85" stroke="white" stroke-width="10" stroke-linecap="round" />
+  <line x1="140" y1="120" x2="155" y2="120" stroke="white" stroke-width="10" stroke-linecap="round" />
+  <line x1="120" y1="140" x2="120" y2="155" stroke="white" stroke-width="10" stroke-linecap="round" />
+  <line x1="100" y1="120" x2="85" y2="120" stroke="white" stroke-width="10" stroke-linecap="round" />
+  
+  <!-- Center bearing detail -->
+  <circle cx="120" cy="120" r="8" fill="#CCCCCC" stroke="white" stroke-width="1" />
+  <circle cx="120" cy="120" r="4" fill="#AAAAAA" />
+</svg>
